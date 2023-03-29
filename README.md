@@ -2,16 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+For this assignment, i was tasked with creating a text editor that runs in the browser. Additionally, it also features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
@@ -21,15 +14,6 @@ Below is a screenshot of the installed application.
     
 ![alt text](assets/images/text-editor%20-%20J.A.T.E%203_28_2023%206_06_48%20PM.png)
     
-
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
@@ -44,3 +28,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Contact 
+
+This application was created by Samuel Oaks.
+
+If you have any questions, i can be reached at [samuelclayoaks@yahoo.com](samuelclayoaks@yahoo.com) 
